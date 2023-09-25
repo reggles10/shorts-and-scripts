@@ -1,0 +1,1 @@
+open /Applications/Safari.app
